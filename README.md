@@ -1,2 +1,5 @@
 # CodigoTFG
-En este repositorio se incluyen los archivos con toda la programación en Python llevada a cabo para el TFG con título "Heurísticos para el problema biobjetivo de diversidad generalizado" de la Universitat de València.
+
+TFG: "Heurísticos para el problema biobjetivo de diversidad generalizado", Universitat de València.
+
+En este repositorio se incluye el archivo que recoge toda la programación en Python necesaria para la reproducción del algoritmo desarrollado en el TFG. 
